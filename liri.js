@@ -1,11 +1,13 @@
+//<--- Requierments--->
 require("dotenv").config();
 
 
 var keys = require("./keys.js")
 var spotify = new Spotify(keys.spotify);
 
+// <--- Commands needed to run the program using "switch" -->
 switch(command) {
-    case "concert-this":
+    case "concert-this": 
     concert();
     break;
 
@@ -22,7 +24,7 @@ switch(command) {
     break;
 
 }
-// <---- Ideas --->
+// <---- Functions for each commands --->
 function concert() {}
 
 function song() {}
