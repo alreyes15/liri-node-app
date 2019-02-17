@@ -12,6 +12,9 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 # Concert This
 
+Screen Shot:
+
+
 * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
 
      * Name of the venue
@@ -20,7 +23,10 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
      
+     
 # Spotify This Song
+
+Screen Shot:
 
    * This will show the following information about the song in your terminal/bash window
 
@@ -35,6 +41,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
    * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 # Movie This
+
+Screen Shot:
 
    * This will output the following information to your terminal/bash window:
 
@@ -56,6 +64,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
      * It's on Netflix!
 
 # Do What It Says
+
+Screen Shot:
 
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's        commands.
 
