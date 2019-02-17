@@ -74,7 +74,13 @@ Screen Shot:
      * Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
 # Resources
+
 w3schools: https://www.w3schools.com/js/js_json_parse.asp
+
 MDN: https://developer.mozilla.org/en-US/
+
 TreeHouse: https://teamtreehouse.com/home
+
 Youtube: https://www.youtube.com/
+
+StackOverflow: https://stackoverflow.com/
