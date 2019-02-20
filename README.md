@@ -2,6 +2,7 @@
 
 Liri Bot Homework #8
 
+***  Before I could take a screen shot of my working terminal, I   downloaded a package that I cannot rememeber which one and I can't fix it now. I attached the problem via screenshot, I will work to fix it. ***
 
  https://alreyes15.github.io/liri-node-app/
 
